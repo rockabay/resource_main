@@ -203,6 +203,7 @@
 - AutoCAD 2016 32位 (链接: https://pan.baidu.com/s/1i53g7dj 密码: pd29)
 - AutoCAD 2015 32位 (链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv)
 - Altium Designer 17.0.6 (链接：http://pan.baidu.com/s/1ge9FYM3 密码：wcp9)
+- Adobe cc 2015  (链接：http://pan.baidu.com/s/1dF4AZ1f 密码：v84v)
 - [Altium Designer常见元件库](http://pan.baidu.com/s/1dFkrQvR)
 - VMare Workstation (链接：http://pan.baidu.com/s/1eRPXdtC 密码：6wg6)
 - MyEclipse (链接：http://pan.baidu.com/s/1jHZYsf0 密码：v1x2)
@@ -210,7 +211,9 @@
 - MS Visio2016 (链接：http://pan.baidu.com/s/1kUFD4Cv 密码：ml5n)
 - GoogleEarth (链接：http://pan.baidu.com/s/1pL7Edg3 密码：fl7h)
 - [Github Desktop客户端下载](https://desktop.github.com/)
--Adobe cc 2015  (链接：http://pan.baidu.com/s/1dF4AZ1f 密码：v84v)
+- [GithubDesktop客户端下载](https://desktop.github.com/)
+- [Gitbush](https://git-for-windows.github.io/)
+
 
 
 
