@@ -7,7 +7,7 @@
 * @ 创建时间：2017年6月10日*
 * @ 创建者：[@iCurious](https://github.com/icurious)*
 * @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室*
-* @ 贡献者：[@iCurious](https://github.com/icurious),[@梦中无人](https://blog.csdn.net/icurious)//每个贡献者在这里加上自己的名字*
+* @ 贡献者：[@iCurious](https://github.com/icurious),[@梦中无人](https://blog.csdn.net/icurious)，[@rockabay](https://github.com/rockabay)//每个贡献者在这里加上自己的名字*
 
 *特别声明：有的链接和资料可能失效，更多资源在实验室的电脑中，请各位成员留意*
 
@@ -113,8 +113,6 @@
 + Visual C++(含择善教育视频教程) (链接：http://pan.baidu.com/s/1o8e9S4E 密码：8ub3)
 + 《OpenCV3编程入门》配套源代码合集(http://pan.baidu.com/s/1dFpbD4H)
 #### Java
-
-#### Python
 
 #### Qt
 
